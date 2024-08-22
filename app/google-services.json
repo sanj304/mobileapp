@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "584331050201",
+    "project_id": "morningmobileappmvvm-df7e2",
+    "storage_bucket": "morningmobileappmvvm-df7e2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584331050201:android:2f9e4116421410b59f52c8",
+        "android_client_info": {
+          "package_name": "com.example.morningmobileappmvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLmx2hWWfuzKOxHQi0mfo4FeJcGVU2Zkw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
